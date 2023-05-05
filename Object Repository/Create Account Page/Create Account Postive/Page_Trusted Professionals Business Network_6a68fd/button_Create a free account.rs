@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create a free account</name>
+   <tag></tag>
+   <elementGuidId>caf5c78d-b5a9-4516-9eee-572d183a6060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#signup_modal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='signup_modal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e40b42e-c46d-4512-9938-ad105a2cd636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-danger btn-md btn-pill btn-wide</value>
+      <webElementGuid>f7326a92-cec3-44cd-9667-8ae80f1a47c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>signup_modal</value>
+      <webElementGuid>c4bf5e8f-2cfd-4b49-9aeb-9104af18181e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a free account</value>
+      <webElementGuid>20a13dde-2d75-4140-abe0-a4e3419e81f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_modal&quot;)</value>
+      <webElementGuid>14dbe571-08db-4de5-a753-5b04fc48bd96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='signup_modal']</value>
+      <webElementGuid>dec0c66a-d1c4-4544-b997-bc562f71982e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav_menu']/ul/li[7]/button</value>
+      <webElementGuid>f5023d40-ec4b-4a45-a4b0-ce2fc1971e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
+      <webElementGuid>6017f904-858d-490a-ac0a-d285e2c66b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[2]</value>
+      <webElementGuid>658769bc-fb65-4942-883c-3f24a974f810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Services'])[1]/preceding::button[1]</value>
+      <webElementGuid>c8944b9e-633c-4c5e-aacb-07a7b3c93beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create a free account']/parent::*</value>
+      <webElementGuid>bea26b32-3000-4bec-850d-7441d7a7a217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/button</value>
+      <webElementGuid>ae37319a-fb44-4ec7-8b54-a3bdd9e0cffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'signup_modal' and (text() = 'Create a free account' or . = 'Create a free account')]</value>
+      <webElementGuid>9ef68e71-15fc-444f-a4d8-4ba4208e443d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

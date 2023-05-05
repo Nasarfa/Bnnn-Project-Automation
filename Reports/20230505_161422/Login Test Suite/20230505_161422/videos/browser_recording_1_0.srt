@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://bnidev.ml/#/home")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+4
+00:00:00,000 --> 00:00:00,000
+13. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Allow all"))
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. setText(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_email"), "rathiesh@macappstudio.com")
+
+8
+00:00:00,000 --> 00:00:00,000
+29. setEncryptedText(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_password"), "cvW8qx4B2o3F4VwP/kNsqA==")
+
+9
+00:00:00,000 --> 00:00:00,000
+33. selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "Select State", true)
+
+10
+00:00:00,000 --> 00:00:00,000
+37. selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "CT, Connecticut", true)
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login_1"))
+
+13
+00:00:00,000 --> 00:00:00,000
+49. click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com"))
+
+14
+00:00:00,000 --> 00:00:00,000
+53. verifyElementPresent(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com"), 0)
+
+15
+00:00:00,000 --> 00:00:00,000
+57. closeBrowser()
+

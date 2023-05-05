@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://bnidev.ml/#/home")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Allow all"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login"))
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. setText(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_email"), "dipin@bni.com")
+
+7
+00:00:00,000 --> 00:00:00,000
+25. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Password"))
+
+8
+00:00:00,000 --> 00:00:00,000
+29. setEncryptedText(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_password"), "65wM4l038bZbmoCh5XJpKg==")
+
+9
+00:00:00,000 --> 00:00:00,000
+33. selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "CT, Connecticut", true)
+
+10
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check"))
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login_1"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal"))
+
+13
+00:00:00,000 --> 00:00:00,000
+49. verifyElementPresent(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal"), 0)
+
+14
+00:00:00,000 --> 00:00:00,000
+53. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Logout"))
+
+15
+00:00:00,000 --> 00:00:00,000
+57. click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Logout"))
+

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dipin Karal</name>
+   <tag></tag>
+   <elementGuidId>b5936691-de4a-4b4d-8af3-06c4b53c5c1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.user-name.drop-down-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav_menu']/ul/li[9]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b122089b-bbd4-42ea-89bc-24f711054a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-name drop-down-option</value>
+      <webElementGuid>6721b77b-51e1-4e5f-ae77-6e1731142b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-active</name>
+      <type>Main</type>
+      <value>data-button-active</value>
+      <webElementGuid>3c90236b-a55d-4424-b803-656e1edcb155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dipin Karal</value>
+      <webElementGuid>7e32025e-472f-4ccb-9ee2-4f83d802dda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_menu&quot;)/ul[@class=&quot;nav-list&quot;]/li[@class=&quot;nav-items&quot;]/div[@class=&quot;profile-dropdown-box&quot;]/div[@class=&quot;name-profile-pic-set&quot;]/button[@class=&quot;user-name drop-down-option&quot;]</value>
+      <webElementGuid>73753268-68ba-4273-acd3-1c7c7af7422a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav_menu']/ul/li[9]/div/div/button</value>
+      <webElementGuid>45b04112-6254-4c53-b69a-f657fad63cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>8435703b-c8ca-404b-a69b-e04be5a7e522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[1]</value>
+      <webElementGuid>0f3e9535-32b1-4341-92a0-562a95ec967d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::button[1]</value>
+      <webElementGuid>2257e59d-3437-4188-899e-bb37c4379e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8887af6-8a35-415f-b4a5-6fa0f62c9bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dipin Karal']/parent::*</value>
+      <webElementGuid>7cb0bc48-26c0-4d65-a589-6a52a1f7043a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div/button</value>
+      <webElementGuid>6fc9071e-dc94-46b0-aec4-47c2352c515f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Dipin Karal' or . = 'Dipin Karal')]</value>
+      <webElementGuid>719a097a-38d6-438d-a62f-89d03d3d7b0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

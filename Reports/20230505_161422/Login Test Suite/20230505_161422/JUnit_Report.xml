@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login Test Suite" time="50.731" tests="3" failures="0" errors="0">
+   <testsuite name="Login Test Suite" tests="3" failures="0" errors="0" time="50.731" skipped="0" timestamp="2023-05-05 16:14:26" hostname="nasar - nasar-air.domain.name" id="Test Suites/Login Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/nasar/git/Bnnn-Project-Automation/Reports/20230505_161422/Login Test Suite/20230505_161422"/>
+         <property name="logFiles" value="/Users/nasar/git/Bnnn-Project-Automation/Reports/20230505_161422/Login Test Suite/20230505_161422/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nasar - nasar-air.domain.name"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 113.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.23"/>
+         <property name="sessionId" value="bde9564b546267bfd32299a0e830a287"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Login/Customer Login Test Case Postive" time="24.727" classname="Test Cases/Login/Customer Login Test Case Postive" status="PASSED">
+         <system-out><![CDATA[2023-05-05 16:14:27 - [TEST_CASE][PASSED] - Test Cases/Login/Customer Login Test Case Postive: Test Cases/Login/Customer Login Test Case Postive
+
+2023-05-05 16:14:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-05-05 16:14:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-05-05 16:14:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-05-05 16:14:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-05-05 16:14:35 - [TEST_STEP][PASSED] - navigateToUrl("https://bnidev.ml/#/home"): Navigate to 'https://bnidev.ml/#/home' successfully
+
+2023-05-05 16:14:38 - [MESSAGE][PASSED] - Navigate to 'https://bnidev.ml/#/home' successfully
+
+2023-05-05 16:14:38 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-05-05 16:14:40 - [MESSAGE][PASSED] - Current window maximized
+
+2023-05-05 16:14:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Allow all")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Allow all' is clicked on
+
+2023-05-05 16:14:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Allow all' is clicked on
+
+2023-05-05 16:14:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login' is clicked on
+
+2023-05-05 16:14:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login' is clicked on
+
+2023-05-05 16:14:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address' is clicked on
+
+2023-05-05 16:14:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address' is clicked on
+
+2023-05-05 16:14:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_email"), "rathiesh@macappstudio.com"): Text 'rathiesh@macappstudio.com' is set on object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_email'
+
+2023-05-05 16:14:43 - [MESSAGE][PASSED] - Text 'rathiesh@macappstudio.com' is set on object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_email'
+
+2023-05-05 16:14:43 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_password"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_password'
+
+2023-05-05 16:14:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_password'
+
+2023-05-05 16:14:44 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "Select State", true): All options with value 'Select State' are selected in object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:14:46 - [MESSAGE][PASSED] - All options with value 'Select State' are selected in object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:14:46 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "CT, Connecticut", true): All options with value 'CT, Connecticut' are selected in object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:14:48 - [MESSAGE][PASSED] - All options with value 'CT, Connecticut' are selected in object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:14:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check' is clicked on
+
+2023-05-05 16:14:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check' is clicked on
+
+2023-05-05 16:14:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login_1")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login_1' is clicked on
+
+2023-05-05 16:14:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_Login_1' is clicked on
+
+2023-05-05 16:14:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com")): Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com' is clicked on
+
+2023-05-05 16:14:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com' is clicked on
+
+2023-05-05 16:14:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com"), 0): Object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com' is present
+
+2023-05-05 16:14:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-05 16:14:51 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/Login with Email id Customer/Page_Trusted Professionals Business Network_6a68fd/button_rathieshmacappstudio.com' is present
+
+2023-05-05 16:14:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-05-05 16:14:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Member Login with Email id Test Case" time="25.232" classname="Test Cases/Login/Member Login with Email id Test Case" status="PASSED">
+         <system-out><![CDATA[2023-05-05 16:14:52 - [TEST_CASE][PASSED] - Test Cases/Login/Member Login with Email id Test Case: Test Cases/Login/Member Login with Email id Test Case
+
+2023-05-05 16:14:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-05-05 16:14:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-05-05 16:14:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-05-05 16:14:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-05-05 16:14:54 - [TEST_STEP][PASSED] - navigateToUrl("https://bnidev.ml/#/home"): Navigate to 'https://bnidev.ml/#/home' successfully
+
+2023-05-05 16:14:59 - [MESSAGE][PASSED] - Navigate to 'https://bnidev.ml/#/home' successfully
+
+2023-05-05 16:14:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Allow all")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Allow all' is clicked on
+
+2023-05-05 16:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Allow all' is clicked on
+
+2023-05-05 16:15:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login' is clicked on
+
+2023-05-05 16:15:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login' is clicked on
+
+2023-05-05 16:15:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address' is clicked on
+
+2023-05-05 16:15:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_UsernameEmail Address' is clicked on
+
+2023-05-05 16:15:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_email"), "dipin@bni.com"): Text 'dipin@bni.com' is set on object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_email'
+
+2023-05-05 16:15:03 - [MESSAGE][PASSED] - Text 'dipin@bni.com' is set on object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_email'
+
+2023-05-05 16:15:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Password")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Password' is clicked on
+
+2023-05-05 16:15:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Password' is clicked on
+
+2023-05-05 16:15:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_password"), "65wM4l038bZbmoCh5XJpKg=="): Text ****** has been set on object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_password'
+
+2023-05-05 16:15:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_password'
+
+2023-05-05 16:15:05 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a"), "CT, Connecticut", true): All options with value 'CT, Connecticut' are selected in object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:15:06 - [MESSAGE][PASSED] - All options with value 'CT, Connecticut' are selected in object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/select_Select StateAlabamaAlaskaArizonaArka_56566a'  using regular expression
+
+2023-05-05 16:15:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check' is clicked on
+
+2023-05-05 16:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/input_Login_remember_me_check' is clicked on
+
+2023-05-05 16:15:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login_1")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login_1' is clicked on
+
+2023-05-05 16:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Login_1' is clicked on
+
+2023-05-05 16:15:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal' is clicked on
+
+2023-05-05 16:15:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal' is clicked on
+
+2023-05-05 16:15:15 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal"), 0): Object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal' is present
+
+2023-05-05 16:15:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-05 16:15:16 - [MESSAGE][PASSED] - Object 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Dipin Karal' is present
+
+2023-05-05 16:15:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Logout")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Logout' is clicked on
+
+2023-05-05 16:15:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/p_Logout' is clicked on
+
+2023-05-05 16:15:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Logout")): Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Logout' is clicked on
+
+2023-05-05 16:15:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login Page/Login with Email id Member/Page_Trusted Professionals Business Network_6a68fd/button_Logout' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Member Login with user id Test Case" time="0.212" classname="Test Cases/Login/Member Login with user id Test Case" status="PASSED">
+         <system-out><![CDATA[2023-05-05 16:15:17 - [TEST_CASE][PASSED] - Test Cases/Login/Member Login with user id Test Case: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-05-05 16:14:26 - [TEST_SUITE][INCOMPLETE] - Login Test Suite: null]]></system-out>
+      <system-err><![CDATA[2023-05-05 16:14:26 - [TEST_SUITE][INCOMPLETE] - Login Test Suite: null]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_IT Engineering Product UAT 01</name>
+   <tag></tag>
+   <elementGuidId>aab6a844-7ec5-4fa6-adf9-57d0766abc4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.user-name.drop-down-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav_menu']/ul/li[9]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>752d1973-b34c-4d63-839c-199ae15aad24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-name drop-down-option</value>
+      <webElementGuid>6376566e-0fd1-4d87-a372-64df220461f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-active</name>
+      <type>Main</type>
+      <value>data-button-active</value>
+      <webElementGuid>af59156b-3cbe-4a83-8f42-5895d384f5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IT Engineering Product UAT 01</value>
+      <webElementGuid>26d07a04-db1a-406b-b219-6dff20d233c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_menu&quot;)/ul[@class=&quot;nav-list&quot;]/li[@class=&quot;nav-items&quot;]/div[@class=&quot;profile-dropdown-box&quot;]/div[@class=&quot;name-profile-pic-set&quot;]/button[@class=&quot;user-name drop-down-option&quot;]</value>
+      <webElementGuid>b97ec58c-d078-42ae-97a9-6e60f4416f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav_menu']/ul/li[9]/div/div/button</value>
+      <webElementGuid>28d6d1a2-e58b-4548-913c-c360a177f32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Dashboard'])[1]/following::button[1]</value>
+      <webElementGuid>4bb0c212-1c75-41c1-adff-92bb4224508b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[1]</value>
+      <webElementGuid>8da6f657-cb04-4089-9abc-7e556a10d678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[1]/preceding::button[1]</value>
+      <webElementGuid>e247bb44-0276-46b5-8be3-ffdd2fd4cc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::button[1]</value>
+      <webElementGuid>5686ce94-ba26-44d9-bea1-529782f88daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IT Engineering Product UAT 01']/parent::*</value>
+      <webElementGuid>815c9e65-dee8-46d2-8caf-83eac88fb3fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div/button</value>
+      <webElementGuid>706c311b-5c37-495d-abbc-a5d3f4727ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'IT Engineering Product UAT 01' or . = 'IT Engineering Product UAT 01')]</value>
+      <webElementGuid>f24e0ae2-b4f6-4e36-a0db-154ed442dd2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

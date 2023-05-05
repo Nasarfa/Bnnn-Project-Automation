@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your account has been successfully create_1ac6f3</name>
+   <tag></tag>
+   <elementGuidId>9fbd9b2f-8537-413c-becb-7515d263dc3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#para</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='para']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bd313f66-0319-49f2-a582-ffdc0e70da09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>para</value>
+      <webElementGuid>f51f2860-95d1-48a8-a7ff-a5973b542d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your account has been successfully created, and you should first confirm your email address before logging in.</value>
+      <webElementGuid>f802fa97-834b-4a63-96df-1db00bce0c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;para&quot;)</value>
+      <webElementGuid>49ebbc1e-5d34-42e5-a7a4-aed84800ab05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='para']</value>
+      <webElementGuid>ea9aaee1-cbac-43bc-9d90-9dab9fd302c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sucess_box']/div/div/p</value>
+      <webElementGuid>6c3a28d7-78a4-4ff4-9f3c-5130fd12104a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations'])[1]/following::p[1]</value>
+      <webElementGuid>b01cf7cf-b829-435f-9c9c-a4f56f50a466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a free account'])[1]/following::p[2]</value>
+      <webElementGuid>5ccd3e25-f77a-4627-b16b-456f008c36d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Services'])[1]/preceding::p[2]</value>
+      <webElementGuid>51885103-7855-4e9d-a283-b6b659166955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your account has been successfully created, and you should first confirm your email address before logging in.']/parent::*</value>
+      <webElementGuid>67016160-c482-4bbc-893c-537e8c2b7d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div/div[3]/div/div/p</value>
+      <webElementGuid>e090ed33-78c1-4986-a796-8c3968fb20c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'para' and (text() = 'Your account has been successfully created, and you should first confirm your email address before logging in.' or . = 'Your account has been successfully created, and you should first confirm your email address before logging in.')]</value>
+      <webElementGuid>26b34b9d-cf32-40da-a5b0-2b3d617d3129</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
